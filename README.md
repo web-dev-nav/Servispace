@@ -110,9 +110,6 @@ ServiSpace is a powerful, web-based dispatch management system designed for fiel
 - **Field Service Organizations**: Manage on-site technical support and installations
 - **Equipment Maintenance Companies**: Schedule and document regular maintenance visits
 
-## 📄 License
-
-[Your license choice]
 
 ## 👨‍💻 Contributing
 
@@ -120,4 +117,4 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## 📞 Contact
 
-[Your contact information]
+web.dev.nav@gmail.com
